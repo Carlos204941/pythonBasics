@@ -1,0 +1,56 @@
+#crear un nuevo proyecto django
+django-admin startproject sap
+
+#movernos a la nueva carpeta del proyecto
+#donde está el archivo manage.py
+cd sap
+
+#ejecutar la aplicación:
+python manage.py runserver
+#abrir un navegador y escribir: 
+127.0.0.1:8000
+
+
+https://code.visualstudio.com/docs/python/tutorial-django
+
+TEMPLATES EN DJANGO es  la  pagina  que  me  hace dudar en la  configuracion de  inicio de  Django: 
+https://docs.djangoproject.com/en/3.0/topics/templates/
+Aquilo veo
+
+https://docs.djangoproject.com/en/5.0/topics/db/managers/
+class Manager¶
+A Manager is the interface through which database query operations are provided to Django models. At least one Manager exists for every model in a Django application.
+
+The way Manager classes work is documented in Making queries; this document specifically touches on model options that customize Manager behavior.
+
+
+
+curso de Django on line pro de este sitio tomare los puntos claves para hacer mi Proyecto
+https://openclassrooms.com/en/courses/6967196-create-a-web-application-with-django/7348925-read-data-in-a-list-view-and-detail-view
+
+formas y modelos ADjango
+https://docs.djangoproject.com/en/5.0/topics/forms/modelforms/
+
+
+
+https://docs.djangoproject.com/en/5.0/ref/models/expressions/
+https://docs.djangoproject.com/en/5.0/topics/db/sql/
+Query Expressions
+
+tematica de Django
+https://www.w3schools.com/django/django_queryset.php
+
+
+WIDGETS
+https://www.geeksforgeeks.org/django-form-field-custom-widgets/
+https://docs.djangoproject.com/en/5.0/ref/forms/widgets/
+
+
+
+https://www.geeksforgeeks.org/top-10-reasons-to-choose-django-framework-for-your-project/?ref=header_search 
+porque  escoger Django
+
+DOCUMENTACION Django
+https://docs.djangoproject.com/en/5.0/ref/
+
+
